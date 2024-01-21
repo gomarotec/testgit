@@ -1,3 +1,3 @@
 #Demo
 
-Text to demo git and lear
+Text to demo git and lear!
